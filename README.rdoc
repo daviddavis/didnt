@@ -4,7 +4,7 @@ This is Didn't, the testing framework. It was originally designed in ruby (note 
 
 == What is Didn't?
 
-Didn't is a testing framework that aims to be lightweight and helps to cut down on new development time by as much as 30-60%. However, the cost for this gain is usually incurred in the support phase. Didn't has been influcenced by other testing methodologies such as Testing by Compilation and HDD (Hope-Driven Development).
+Didn't is a testing framework that aims to be lightweight and helps to cut down on new development time by as much as 30-60%. However, the cost for this gain is usually incurred in the support phase. Didn't has been influenced by other testing methodologies such as Testing by Compilation and HDD (Hope-Driven Development).
 
 == How do I use Didn't?
 
