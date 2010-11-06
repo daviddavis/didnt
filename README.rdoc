@@ -8,7 +8,7 @@ Didn't is a testing framework that aims to be lightweight and helps to cut down 
 
 == How do I use Didn't?
 
-The developers of Didn't really invisioned the Didn't development process to be carried out in three to eight steps.
+The developers of Didn't really invisioned the Didn't development process to be carried out in four to ∞ steps.
 
 1. Write your code.
 2. Deploy directly to production.
@@ -30,7 +30,7 @@ Didn't is still under development but this initial release, 0.0.0.0.1, includes 
 6. If you're reading this on Github then your internet is working or was probably working at one point.
 7. There is no number 7.
 
-== How do I install and use Didn't?
+== How do I install and run Didn't?
 
 Run the following commands to install Didn't:
 
