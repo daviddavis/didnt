@@ -1,0 +1,3 @@
+This is Didnt, the testing framework. It was originally designed in ruby (note the rake tasks) but can be easily ported to any language.
+
+Didnt is a testing framework that aims to be lightweight and helps to cut down on new development time by as much as 30-60%. However, this gain is usually recurred in the support phase.
