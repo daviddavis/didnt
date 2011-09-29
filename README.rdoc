@@ -13,7 +13,7 @@ The developers of Didn't really invisioned the Didn't development process to be 
 1. Write your code.
 2. Deploy directly to production.
 3. Communicate with users to find out what's broken.
-4. Fix bugs.
+4. Fix bugs directly in production.
 5. Repeat steps 3 to 4 until users stop bitching.
 
 Note that installing Didn't is completely optional. Not installing Didn't is just as effective in terms of testing as installing Didn't.
