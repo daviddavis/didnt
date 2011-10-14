@@ -10,7 +10,7 @@ end
 def ensure_no_tests_were_written 
   Dir.glob("**/").select{|d| d.include? "test"}.each do |dir| 
     begin
-      FileUtils.rm_rf d 
+      FileUtils.rm_rf dir 
     rescue
       #whatever
     end
