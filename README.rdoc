@@ -1,6 +1,6 @@
 = Didn't
 
-This is Didn't, the testing framework. It was originally designed in ruby (note the rake task) but can be easily ported to any language.
+This is Didn't, the testing framework. It was originally designed in Ruby (note the rake task) but can be used with any programming language.
 
 == What is Didn't?
 
