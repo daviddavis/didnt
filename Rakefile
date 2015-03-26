@@ -1,2 +1,5 @@
 require 'rake'
-require 'lib/test'
+
+task :test do
+  puts "DONE"
+end
