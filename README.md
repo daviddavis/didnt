@@ -1,12 +1,12 @@
-= Didn't
+# Didn't
 
-This is Didn't, the testing framework. It was originally designed in Ruby (note the rake task) but can be used with any programming language.
+This is Didn't, the testing framework. It can be used with any programming language.
 
-== What is Didn't?
+## What is Didn't?
 
 Didn't is a testing framework that aims to be lightweight and helps to cut down on new development time by as much as 30-60%. However, the cost for this gain is usually incurred in the support phase. Didn't has been influenced by other testing methodologies such as Testing by Compilation and HDD (Hope-Driven Development).
 
-== How do I use Didn't?
+## How do I use Didn't?
 
 The developers of Didn't really invisioned the Didn't development process to be carried out in four to ∞ steps.
 
@@ -18,7 +18,7 @@ The developers of Didn't really invisioned the Didn't development process to be 
 
 Note that installing Didn't is completely optional. Not installing Didn't is just as effective in terms of testing as installing Didn't.
 
-== What features does Didn't include?
+## What features does Didn't include?
 
 Didn't is still under development but this initial release, 0.0.0.0.1, includes the following features:
 
@@ -30,17 +30,21 @@ Didn't is still under development but this initial release, 0.0.0.0.1, includes 
 6. If you're reading this on Github then your internet is working or was probably working at one point.
 7. There is no number 7.
 
-== How do I install and run Didn't?
+## How do I install and run Didn't?
 
 Run the following commands to install Didn't:
 
-  git clone https://github.com/daviddavis/didnt.git
+```
+git clone https://github.com/daviddavis/didnt.git
+```
 
 Then use this to run Didn't (although this is completely optional):
 
-  cd didnt
-  rake test
+```
+cd didnt
+rake test
+```
 
-== Future improvements to this README
+## Examples
 
-How to install Didn't into a Rails project.
+The following are some example tests written with Didn't:
